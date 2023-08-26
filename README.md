@@ -1,2 +1,2 @@
 # UserScript
-業務改善を楽にするUserScript
+業務を楽にするUserScript
