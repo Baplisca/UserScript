@@ -7,6 +7,7 @@
 // @match        https://prod.practitest.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=practitest.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 function deleteUI() {
